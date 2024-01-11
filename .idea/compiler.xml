@@ -9,5 +9,10 @@
         <module name="HBlog" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="H-admin" target="11" />
+      <module name="H-blog" target="11" />
+      <module name="H-framework" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
